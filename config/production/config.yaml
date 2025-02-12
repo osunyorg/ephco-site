@@ -2,6 +2,11 @@
 
 baseURL: https://www.ephco.net
 
+## OSUNY
+osuny:
+  website:
+    id: 28139013-ac9b-458e-af6e-0f896db5c42e
+
 ## LANGUAGE
 defaultContentLanguage: en
 defaultContentLanguageInSubdir: true
